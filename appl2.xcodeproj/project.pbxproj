@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C762C46E256C416C0043A1DE /* ViewXib.xib in Resources */ = {isa = PBXBuildFile; fileRef = C762C46D256C416C0043A1DE /* ViewXib.xib */; };
 		C7CF16E22562EC77004B4CBA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7CF16E12562EC77004B4CBA /* AppDelegate.swift */; };
 		C7CF16E42562EC77004B4CBA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7CF16E32562EC77004B4CBA /* SceneDelegate.swift */; };
 		C7CF16E62562EC77004B4CBA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7CF16E52562EC77004B4CBA /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C762C46D256C416C0043A1DE /* ViewXib.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewXib.xib; sourceTree = "<group>"; };
 		C7CF16DE2562EC77004B4CBA /* appl2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = appl2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C7CF16E12562EC77004B4CBA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C7CF16E32562EC77004B4CBA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				C7CF16E32562EC77004B4CBA /* SceneDelegate.swift */,
 				C7CF16E52562EC77004B4CBA /* ViewController.swift */,
 				C7CF16E72562EC77004B4CBA /* Main.storyboard */,
+				C762C46D256C416C0043A1DE /* ViewXib.xib */,
 				C7CF16EA2562ECD1004B4CBA /* Assets.xcassets */,
 				C7CF16EC2562ECD1004B4CBA /* LaunchScreen.storyboard */,
 				C7CF16EF2562ECD1004B4CBA /* Info.plist */,
@@ -233,6 +236,7 @@
 			files = (
 				C7CF16EE2562ECD1004B4CBA /* LaunchScreen.storyboard in Resources */,
 				C7CF16EB2562ECD1004B4CBA /* Assets.xcassets in Resources */,
+				C762C46E256C416C0043A1DE /* ViewXib.xib in Resources */,
 				C7CF16E92562EC77004B4CBA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
